@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.journey;
+package jp.co.nomm.gwm;
 
 public final class R {
     public static final class attr {

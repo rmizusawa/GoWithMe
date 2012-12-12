@@ -1,9 +1,7 @@
-package com.journey;
+package jp.co.nomm.gwm;
 
-import com.journey.R;
-
-import android.os.Bundle;
 import android.app.Activity;
+import android.os.Bundle;
 import android.view.Menu;
 
 public class MainActivity extends Activity {
